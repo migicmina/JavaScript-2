@@ -1,0 +1,1 @@
+console.log("Primer za ispis u konzoli");
